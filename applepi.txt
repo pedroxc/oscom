@@ -1,0 +1,10 @@
+sudo apt update
+sudo apt install -y git build-essential qt5-default libqt5core5a libqt5gui5 libqt5widgets5 qmake
+sudo apt install libsdl2-dev libsdl2-image-dev
+cd ~
+git clone https://github.com/FZBunny/applepi.git
+cd applepi
+qmake      # prepara o makefile usando Qt (se for versão com Qt)
+make       # compila
+./applepi
+./applepi --d1 nome_do_arquivo.dsk
