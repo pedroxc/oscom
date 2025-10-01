@@ -9,3 +9,6 @@ java -jar AppleCommander.jar -p empty.dsk JOGO.BAS B JOGO.BAS
 
 java -jar AppleCommander.jar -p empty.dsk JOGO.BAS B JOGO.BAS
 
+
+mkdir -p ~/mame/roms
+mv ~/Downloads/apple2e.zip ~/mame/roms/
