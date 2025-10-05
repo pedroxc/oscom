@@ -1,3 +1,7 @@
-cd ~/BBCSDL
-sudo apt install build-essential libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev -y
-make
+
+ sudo apt-get install libsdl2-2.0-0
+ sudo apt-get install libsdl2-ttf-2.0-0
+ sudo apt-get install libsdl2-net-2.0-0
+
+  chmod +x bbcsdl
+ ./bbcsdl
