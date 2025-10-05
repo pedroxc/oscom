@@ -1,1 +1,3 @@
-sudo apt install fmsx
+sudo apt install xserver-xorg xinit openbox
+startx
+openmsx
