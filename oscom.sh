@@ -1,7 +1,7 @@
+sudo apt install -y git build-essential libsdl1.2-dev
 
- sudo apt-get install libsdl2-2.0-0
- sudo apt-get install libsdl2-ttf-2.0-0
- sudo apt-get install libsdl2-net-2.0-0
+cd ~
+git clone https://github.com/stardot/brandy.git
+cd brandy/src
 
-  chmod +x bbcsdl
- ./bbcsdl
+make -f Makefile.RPi
