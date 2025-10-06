@@ -1,3 +1,3 @@
-sudo apt install libsdl2-2.0-0
-export SDL_VIDEODRIVER=fbcon
-openmsx
+sudo apt update
+sudo apt upgrade -y
+sudo apt install openmsx -y
