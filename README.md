@@ -1,4 +1,3 @@
-[all]
 dtoverlay=dwc2
 
 # Forçar HDMI (se usar TV/monitor HDMI)
