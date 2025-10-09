@@ -1,1 +1,1 @@
-nano /opt/retropie/configs/all/retroarch.cfg
+cd /opt/retropie/configs
