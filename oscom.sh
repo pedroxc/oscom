@@ -1,2 +1,2 @@
 # ROMs (use sua pasta)
-cp -rv ~/oscom/roms/atari2600/* ~/RetroPie/roms/atari2600/
+cp -rv ~/oscom/roms/* ~/RetroPie/roms/atari2600/
