@@ -1,1 +1,1 @@
-bash inject.sh
+mdir -i ~/RetroPie/roms/msx/meudisco.dsk ::
