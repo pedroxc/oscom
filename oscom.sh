@@ -11,3 +11,5 @@ input_exit_emulator = "escape"  # sair:     RCTRL + Esc
 input_save_state    = "f2"      # salvar:   RCTRL + F2
 input_load_state    = "f4"      # carregar: RCTRL + F4
 INI
+
+echo "fin"
