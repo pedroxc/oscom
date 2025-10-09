@@ -1,1 +1,1 @@
-cd /opt/retropie/configs
+cd /opt/retropie/configs/all/retroarch/config/blueMSX
