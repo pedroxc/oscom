@@ -1,2 +1,1 @@
-# ROMs (use sua pasta)
-cp -rv ~/oscom/roms/* ~/RetroPie/roms/atari2600/
+nano /opt/retropie/configs/all/retroarch.cfg
