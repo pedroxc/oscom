@@ -1,4 +1,4 @@
-echo "pedro"
+echo "pedro -2"
 
 sudo mkdir -p /opt/retropie/configs/all/retroarch/config/blueMSX
 sudo tee /opt/retropie/configs/all/retroarch/config/blueMSX/blueMSX.cfg >/dev/null <<'INI'
